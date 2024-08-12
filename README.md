@@ -9,3 +9,5 @@
 #### Q. What is Tanstack Query?
 
 - A library that helps you sending HTTP requests & keeping your frontend UI in sync
+
+- React Query caches response data.
