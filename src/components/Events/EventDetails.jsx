@@ -1,6 +1,6 @@
-import { Link, Outlet } from 'react-router-dom';
+import { Link, Outlet } from "react-router-dom";
 
-import Header from '../Header.jsx';
+import Header from "../Header.jsx";
 
 export default function EventDetails() {
   return (
@@ -20,7 +20,7 @@ export default function EventDetails() {
           </nav>
         </header>
         <div id="event-details-content">
-          <img src="" alt="" />
+          <img src="http://localhost:3000/image name" alt="" />
           <div id="event-details-info">
             <div>
               <p id="event-details-location">EVENT LOCATION</p>
