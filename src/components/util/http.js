@@ -93,3 +93,5 @@ export async function deleteEvent({ id }) {
 
   return response.json();
 }
+
+export async function updateEvent({ id, event }) {}
